@@ -8,3 +8,5 @@ cargo test
 ```bash
 cargo run --example libdemo
 ```
+## link docs
+Read the [cargo manifest](https://doc.rust-lang.org/cargo/reference/manifest.html#package-metadata)
