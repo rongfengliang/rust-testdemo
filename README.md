@@ -1,4 +1,4 @@
-# rust-lang  test dem0
+# rust-lang  test demo
 > include test example
 ## how to run 
 ```bash
